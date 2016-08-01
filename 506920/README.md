@@ -45,10 +45,10 @@ Ne sono state elaborate diverse versioni fino a quella ufficiale del 1927 che ve
 
 ![Prime Versioni](https://github.com/Veronicach30/projects-2016/blob/master/506920/PrimeVersioni.jpg)
 
-In alto a sinistra: Prima Versione (1920)
-In basso a sinistra: Seconda Versione (1920)
-In alto a destra: Terza Versione (1922)
-In basso a destra: Quarta Versione (1925)
+In alto a sinistra: Prima Versione (1920);   
+In basso a sinistra: Seconda Versione (1920);   
+In alto a destra: Terza Versione (1922);   
+In basso a destra: Quarta Versione (1925).
 
 #### Ultima Versione
 ### Costruzione del Progetto
