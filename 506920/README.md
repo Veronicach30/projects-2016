@@ -43,6 +43,7 @@ Ne sono state elaborate diverse versioni fino a quella ufficiale del 1927 che ve
 
 #### Prime Versioni
 
+![Prime Versioni](https://github.com/Veronicach30/projects-2016/blob/master/506920/PrecedentiVersioni.jpg)
 
 
 #### Ultima Versione
