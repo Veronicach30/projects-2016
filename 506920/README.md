@@ -5,28 +5,12 @@
 ![Maison Citrohan](https://github.com/Veronicach30/projects-2016/blob/master/506920/COLLAGE.jpg)
 
 ### Indice
+  - [L'Architetto](https://github.com/Veronicach30/projects-2016/blob/master/506920/README.md#l'architetto)
   - [Maison Citrohan](https://github.com/Veronicach30/projects-2016/blob/master/506920/README.md#maison-citrohan)
-  - See HTML in the right
-  - Magic
+    -  [Prima Versione](https://github.com/Veronicach30/projects-2016/blob/master/506920/README.md#prima-versione)
+  - [Costruzione del Progetto](https://github.com/Veronicach30/projects-2016/blob/master/506920/README.md#costruzione-del-progetto)
 
-sfsd
-f
-sdf
-s
-fsd
-f
-s
-d
-f
-
-dfsd
-f
-s
-df
-s
-
-f
-
-sf
-
-### Maison Citrohan
+#### L'Architetto
+#### Maison Citrohan
+##### Prima Versione
+#### Costruzione del Progetto
