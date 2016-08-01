@@ -22,7 +22,9 @@
 
 Le Corbusier fu architetto, designer, urbanista, scrittore e pioniere dell’architettura moderna.
 
-Le Corbusier nel 1908 si avvicina all’utilizzo residenziale del cemento armato, riuscendo a portare negli ambienti interni più luce e aria grazie all’apertura di ampie vetrate. Nel 1923 pubblica _**“Vers une architecture”**_ nel quale espone i 5 principi dell’architettura moderna:
+Le Corbusier nel 1908 si avvicina all’utilizzo residenziale del cemento armato, riuscendo a portare negli ambienti interni più luce e aria grazie all’apertura di ampie vetrate. 
+
+Nel 1923 pubblica _**“Vers une architecture”**_ nel quale espone i 5 principi dell’architettura moderna:
 
 1.	  **I pilotis** (Les pilotis) 
 
