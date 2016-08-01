@@ -22,17 +22,17 @@
 
 Le Corbusier fu architetto, designer, urbanista, scrittore e pioniere dell’architettura moderna.
 
-Le Corbusier nel 1908 si avvicina all’utilizzo residenziale del cemento armato, riuscendo a portare negli ambienti interni più luce e aria grazie all’apertura di ampie vetrate. Nel 1923 pubblica **“Vers une architecture”** nel quale espone i 5 principi dell’architettura moderna:
+Le Corbusier nel 1908 si avvicina all’utilizzo residenziale del cemento armato, riuscendo a portare negli ambienti interni più luce e aria grazie all’apertura di ampie vetrate. Nel 1923 pubblica _**“Vers une architecture”**_ nel quale espone i 5 principi dell’architettura moderna:
 
-1.	**I pilotis** (Les pilotis) 
+1.	  **I pilotis** (Les pilotis) 
 
-2.	**La pianta libera** (Le plan libre) 
+2.	  **La pianta libera** (Le plan libre) 
 
-3.	**Il tetto giardino** (Le toit-jardin) 
+3.	  **Il tetto giardino** (Le toit-jardin) 
 
-4.	**La facciata libera** (La façade libre) 
+4.	  **La facciata libera** (La façade libre) 
 
-5.	**La finestra a banda** (La fenêtre en bandeau, La fenêtre en longeur).
+5.	  **La finestra a banda** (La fenêtre en bandeau, La fenêtre en longeur).
 
 #### Maison Citrohan
 ##### Prima Versione
