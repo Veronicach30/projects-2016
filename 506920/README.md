@@ -18,7 +18,7 @@
     - [Secondo Piano](https://github.com/Veronicach30/projects-2016/blob/master/506920/README.md#secondo-piano)
     - [Terzo Piano](https://github.com/Veronicach30/projects-2016/blob/master/506920/README.md#terzo-piano)
 
-#### L'Architetto
+#### **L'Architetto**
 
 Le Corbusier fu architetto, designer, urbanista, scrittore e pioniere dell’architettura moderna.
 
