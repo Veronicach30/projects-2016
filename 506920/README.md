@@ -69,7 +69,13 @@ Sono presenti tutti i 5 principi dell’architettura:
 
 
 ### Costruzione del Progetto
+
 #### Piano Terra
+
+Nel piano terra si trovano i locali dedicati alla lavanderia, alla dispensa e al locale caldaie oltre ad un piccolo WC di servizio.
+
+Partendo dalla pianta è stato generato il file .svg.
+
 #### Primo Piano
 #### Secondo Piano
 #### Terzo Piano
