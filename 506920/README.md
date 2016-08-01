@@ -76,7 +76,7 @@ Nel piano terra si trovano i locali dedicati alla lavanderia, alla dispensa e al
 
 Partendo dalla pianta è stato generato il file .svg.
 
-![Piano Terra](https://github.com/Veronicach30/projects-2016/blob/master/506920/PianoTerra.jpg)
+
 
 #### Primo Piano
 #### Secondo Piano
