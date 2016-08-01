@@ -5,9 +5,10 @@
 ![Maison Citrohan](https://github.com/Veronicach30/projects-2016/blob/master/506920/COLLAGE.jpg)
 
 ### Indice
-  - [Maison Citrohan](https://github.com/Veronicach30/projects-2016/edit/master/506920/README.md#Maison-Citrohan)
+  - [Maison Citrohan](https://github.com/Veronicach30/projects-2016/edit/master/506920/README.md#maison-citrohan)
   - See HTML in the right
   - Magic
+
 sfsd
 f
 sdf
@@ -23,7 +24,9 @@ f
 s
 df
 s
+
 f
+
 sf
 
 ### Maison Citrohan
