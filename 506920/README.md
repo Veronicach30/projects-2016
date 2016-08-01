@@ -74,10 +74,15 @@ Sono presenti tutti i 5 principi dell’architettura:
 
 Nel piano terra si trovano i locali dedicati alla lavanderia, alla dispensa e al locale caldaie oltre ad un piccolo WC di servizio.
 
-Partendo dalla pianta è stato generato il file .svg.
+Partendo dalla pianta è stato generato il file .svg sulla destra.
 
 ![Piano Terra](https://github.com/Veronicach30/projects-2016/blob/master/506920/PiantaPianoTerra.jpg)
 
+Da questo poi aggiungendo dei dettagli all'interno come le porte, le finestre, la scala, le caldaie e le lavatrici si è giuntial seguente risultato:
+
+![Piano Terra](https://github.com/Veronicach30/projects-2016/blob/master/506920/PlasmPianoTerra.jpg)
+
+![Piano Terra](https://github.com/Veronicach30/projects-2016/blob/master/506920/PlasmPianoTerra.jpg)
 #### Primo Piano
 #### Secondo Piano
 #### Terzo Piano
