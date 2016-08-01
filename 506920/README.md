@@ -37,7 +37,16 @@ Nel 1923 pubblica _**“Vers une architecture”**_ nel quale espone i 5 princip
 5.	  **La finestra a banda** (La fenêtre en bandeau, La fenêtre en longeur).
 
 ### Maison Citrohan
+
+Il progetto elaborato tra il 1919 e il 1927 è la traduzione architettonica dei principi estetici del Purismo, presenta elementi costitutivi standard e ricercata funzionalità spaziale.
+
+**Obiettivo: ottenere una casa da produrre in serie come le automobili.**
+
+Ne sono state elaborate diverse versioni fino a quella ufficiale del 1927 che venne realizzata a Stoccarda nel quartiere di Weissenhof.
+
 #### Prima Versione
+
+
 #### Seconda Versione
 #### Terza Versione
 #### Quarta Versione
