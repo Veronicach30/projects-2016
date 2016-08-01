@@ -37,7 +37,7 @@ Nel 1923 pubblica _**“Vers une architecture”**_ nel quale espone i 5 princip
 
 Il progetto elaborato tra il 1919 e il 1927 è la traduzione architettonica dei principi estetici del Purismo, presenta elementi costitutivi standard e ricercata funzionalità spaziale.
 
-**Obiettivo: ottenere una casa da produrre in serie come le automobili.**
+_**Obiettivo: ottenere una casa da produrre in serie come le automobili.**_
 
 Ne sono state elaborate diverse versioni fino a quella ufficiale del 1927 che venne realizzata a Stoccarda nel quartiere di Weissenhof.
 
@@ -51,6 +51,23 @@ In alto a destra: Terza Versione (1922);
 In basso a destra: Quarta Versione (1925).
 
 #### Ultima Versione
+
+Il progetto riguarda l'ultima versione del 1927, dove l’abitazione assume la forma di un parallelepipedo puro con dimensioni della pianta di 5 mt x 11.75 mt.
+
+
+Sono presenti tutti i 5 principi dell’architettura:
+
+1.	_I pilotis_: innalzano e creano una struttura ortogonale; 
+
+2.	_La pianta libera_: lo spazio sembra muoversi liberamente tra divisioni virtuali; 
+
+3.	_Il tetto giardino_: riduce lo spazio delle camere e del soggiorno, ma restituisce il rapporto con il verde.
+
+4.	_La facciata libera_: permette la grande finestra a doppia altezza della facciata;
+
+5.	_La finestra a banda_: grazie alla facciata libera compaiono su tutti i lati della casa.
+
+
 ### Costruzione del Progetto
 #### Piano Terra
 #### Primo Piano
