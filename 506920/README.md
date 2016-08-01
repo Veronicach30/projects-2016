@@ -4,7 +4,7 @@
 
 ![Maison Citrohan](https://github.com/Veronicach30/projects-2016/blob/master/506920/COLLAGE.jpg)
 
-### Indice
+## Indice
   - [L'Architetto](https://github.com/Veronicach30/projects-2016/blob/master/506920/README.md#larchitetto)
   - [Maison Citrohan](https://github.com/Veronicach30/projects-2016/blob/master/506920/README.md#maison-citrohan)
     -  [Prima Versione](https://github.com/Veronicach30/projects-2016/blob/master/506920/README.md#prima-versione)
@@ -18,7 +18,7 @@
     - [Secondo Piano](https://github.com/Veronicach30/projects-2016/blob/master/506920/README.md#secondo-piano)
     - [Terzo Piano](https://github.com/Veronicach30/projects-2016/blob/master/506920/README.md#terzo-piano)
 
-#### **L'Architetto**
+### L'Architetto
 
 Le Corbusier fu architetto, designer, urbanista, scrittore e pioniere dell’architettura moderna.
 
@@ -36,14 +36,14 @@ Nel 1923 pubblica _**“Vers une architecture”**_ nel quale espone i 5 princip
 
 5.	  **La finestra a banda** (La fenêtre en bandeau, La fenêtre en longeur).
 
-#### Maison Citrohan
-##### Prima Versione
-##### Seconda Versione
-##### Terza Versione
-##### Quarta Versione
-##### Quinta Versione
-#### Costruzione del Progetto
-##### Piano Terra
-##### Primo Piano
-##### Secondo Piano
-##### Terzo Piano
+### Maison Citrohan
+#### Prima Versione
+#### Seconda Versione
+#### Terza Versione
+#### Quarta Versione
+#### Quinta Versione
+### Costruzione del Progetto
+#### Piano Terra
+#### Primo Piano
+#### Secondo Piano
+#### Terzo Piano
