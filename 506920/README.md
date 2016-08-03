@@ -82,9 +82,14 @@ Elaborazione del file .svg con l'aggiunta del pavimento, delle pareti curve e de
 
 ![Piano Terra](https://github.com/Veronicach30/projects-2016/blob/master/506920/PianoTerra1.jpg)
 
-Qui vediamo inserite le grate alla finestre e le porte.
+Qui vediamo inserite le grate alle finestre e le porte.
 
 ![Piano Terra](https://github.com/Veronicach30/projects-2016/blob/master/506920/PianoTerra2.jpg)
+
+L'ultima fase riguarda l'aggiunta della scala, delle caldaie e degli arredi.
+
+![Piano Terra](https://github.com/Veronicach30/projects-2016/blob/master/506920/PianoTerra3.jpg)
+
 #### Primo Piano
 #### Secondo Piano
 #### Terzo Piano
