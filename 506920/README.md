@@ -88,7 +88,8 @@ Qui vediamo inserite le grate alle finestre e le porte.
 
 L'ultima fase riguarda l'aggiunta della scala, delle caldaie e degli arredi.
 
-![Piano Terra](https://github.com/Veronicach30/projects-2016/blob/master/506920/PianoTerra3.jpg)
+![Piano Terra](https://github.com/Veronicach30/projects-2016/blob/master/506920/PianoTerraInterni2.jpg)
+![Piano Terra](https://github.com/Veronicach30/projects-2016/blob/master/506920/PianoTerraInterni1.jpg)
 
 #### Primo Piano
 #### Secondo Piano
