@@ -78,11 +78,10 @@ Partendo dalla pianta è stato generato il file .svg sulla destra.
 
 ![Piano Terra](https://github.com/Veronicach30/projects-2016/blob/master/506920/PiantaPianoTerra.jpg)
 
-Da questo poi aggiungendo dei dettagli all'interno come le porte, le finestre, la scala, le caldaie e le lavatrici si è giuntial seguente risultato:
+Elaborazione del file .svg con l'aggiunta del pavimento, delle pareti curve e dei pilotis ha portato al risultato sulla sinistra, mentre a destra sono state forate le mura per la realizzazione delle porte e delle finestre.
 
-![Piano Terra](https://github.com/Veronicach30/projects-2016/blob/master/506920/PlasmPianoTerra.jpg)
+![Piano Terra](https://github.com/Veronicach30/projects-2016/blob/master/506920/PianoTerra1.jpg)
 
-![Piano Terra](https://github.com/Veronicach30/projects-2016/blob/master/506920/PlasmPianoTerra.jpg)
 #### Primo Piano
 #### Secondo Piano
 #### Terzo Piano
