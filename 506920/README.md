@@ -169,4 +169,4 @@ Sono state poi inserite le porte, le grate alle finestre e i parapetti della ter
 
 Quest'ultima inmmagine mostra la terrazza-giardino.
 
-![Terzo Piano](https://github.com/Veronicach30/projects-2016/blob/master/506920/TerzoPianoArredo1.jpg)
+![Terzo Piano](https://github.com/Veronicach30/projects-2016/blob/master/506920/TerzoPianoArredo2.jpg)
