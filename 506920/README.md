@@ -74,11 +74,11 @@ Sono presenti tutti i 5 principi dell’architettura:
 
 Nel piano terra si trovano i locali dedicati alla lavanderia, alla dispensa e al locale caldaie oltre ad un piccolo WC di servizio.
 
-Partendo dalla pianta è stato generato il file .svg sulla destra.
+Partendo dalla pianta è stato generato il file .svg e da questo il file .lines sulla destra.
 
 ![Piano Terra](https://github.com/Veronicach30/projects-2016/blob/master/506920/PiantaPianoTerra.jpg)
 
-Elaborazione del file .svg con l'aggiunta del pavimento, delle pareti curve e dei pilotis ha portato al risultato sulla sinistra, mentre a destra sono state forate le mura per la realizzazione delle porte e delle finestre.
+Elaborazione del file .lines con l'aggiunta del pavimento, delle pareti curve e dei pilotis ha portato al risultato sulla sinistra, mentre a destra sono state forate le mura per la realizzazione delle porte e delle finestre.
 
 ![Piano Terra](https://github.com/Veronicach30/projects-2016/blob/master/506920/PianoTerra1.jpg)
 
@@ -96,11 +96,11 @@ L'ultima fase riguarda l'aggiunta della scala, delle caldaie e degli arredi.
 
 Nel primo piano si trova la zona giorno con la sala a doppia altezza, la sala da pranzo, la cucina e la stanza dedicata alla cameriera.
 
-Come per il piano terra partendo dalla pianta è stato generato il file .svg.
+Come per il piano terra partendo dalla pianta è stato generato il file .svg e da questo il file .lines.
 
 ![Primo Piano](https://github.com/Veronicach30/projects-2016/blob/master/506920/PiantaPrimoPiano.jpg)
 
-Elaborazione del file .svg con l'aggiunta del pavimento e delle pareti curve ottenute con l'uso delle curve di Bezier ha portato al risultato sulla sinistra, mentre a destra sono state forate, anche in questo caso le mura per la realizzazione delle porte e delle finestre.
+Elaborazione del file .lines con l'aggiunta del pavimento e delle pareti curve ottenute con l'uso delle curve di Bezier ha portato al risultato sulla sinistra, mentre a destra sono state forate, anche in questo caso le mura per la realizzazione delle porte e delle finestre.
 
 ![Primo Piano](https://github.com/Veronicach30/projects-2016/blob/master/506920/PrimoPiano1.jpg)
 
@@ -119,5 +119,12 @@ Nella sala sono stati inseriti la poltrona e il divano, progettati in maniera an
 Mentre la stanza della cameriera è stata arredata inserendo un letto ed un armadio, che in colorazioni differenti verranno usati anche nei piani superiori.
 
 ![Primo Piano Arredi](https://github.com/Veronicach30/projects-2016/blob/master/506920/Letto_Armadio.jpg)
+
+Nelle immagini che seguono si ha la visione d'insieme del primo piano arredato.
+
+![Primo Piano Arredi](https://github.com/Veronicach30/projects-2016/blob/master/506920/PrimoPiano3.jpg)
+![Primo Piano Arredi](https://github.com/Veronicach30/projects-2016/blob/master/506920/PrimoPianoArredo3.jgp)
+![Primo Piano Arredi](https://github.com/Veronicach30/projects-2016/blob/master/506920/PrimoPianoArredo4.jpg)
+
 #### Secondo Piano
 #### Terzo Piano
