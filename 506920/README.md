@@ -91,8 +91,9 @@ L'ultima fase riguarda l'aggiunta della scala, delle caldaie e degli arredi.
 ![Piano Terra](https://github.com/Veronicach30/projects-2016/blob/master/506920/PianoTerraInterni2.jpg)
 ![Piano Terra](https://github.com/Veronicach30/projects-2016/blob/master/506920/PianoTerraInterni1.jpg)
 
-#### Primo Piano
 
+
+#### Primo Piano
 
 Nel primo piano si trova la zona giorno con la sala a doppia altezza, la sala da pranzo, la cucina e la stanza dedicata alla cameriera.
 
@@ -123,8 +124,31 @@ Mentre la stanza della cameriera è stata arredata inserendo un letto ed un arma
 Nelle immagini che seguono si ha la visione d'insieme del primo piano arredato.
 
 ![Primo Piano Arredi](https://github.com/Veronicach30/projects-2016/blob/master/506920/PrimoPiano3.jpg)
-![Primo Piano Arredi](https://github.com/Veronicach30/projects-2016/blob/master/506920/PrimoPianoArredo3.jgp)
+![Primo Piano Arredi](https://github.com/Veronicach30/projects-2016/blob/master/506920/PrimoPianoArredo3.jpg)
 ![Primo Piano Arredi](https://github.com/Veronicach30/projects-2016/blob/master/506920/PrimoPianoArredo4.jpg)
 
+
+
 #### Secondo Piano
+
+Il secondo piano che si affaccia sulla sala sottostante è dedicato alla zona padronale, con la camera da letto dei genitori e un bagno con zona WC separata.
+
+Come per gli altri piani partendo dalla pianta è stato generato il file .svg e da questo il file .lines.
+
+![Secondo Piano](https://github.com/Veronicach30/projects-2016/blob/master/506920/PiantaSecondoPiano.jpg)
+
+Elaborazione del file .lines con l'aggiunta del pavimento ha portato al risultato sulla sinistra, mentre a destra sono state forate le mura per la realizzazione delle porte e delle finestre.
+
+![Secondo Piano](https://github.com/Veronicach30/projects-2016/blob/master/506920/SecondoPiano1.jpg)
+
+Come in precedenza sono poi state inserite le porte e le grate alle finestre, nella foto a sinistra, mentre a destra vediamo l'aggiunta della scala e del tavolino creato sul parapetto.
+
+![Secondo Piano](https://github.com/Veronicach30/projects-2016/blob/master/506920/SecondoPiano2.jpg)
+
+Nelle ultime immagini invece vedremo al visione d'insieme dell'ambiente arredato e un particolare del tavolino.
+
+![Secondo Piano](https://github.com/Veronicach30/projects-2016/blob/master/506920/SecondoPiano3.jpg)
+![Secondo Piano Arredi](https://github.com/Veronicach30/projects-2016/blob/master/506920/SecondoPianoArredo3.jpg)
+
+
 #### Terzo Piano
