@@ -92,5 +92,32 @@ L'ultima fase riguarda l'aggiunta della scala, delle caldaie e degli arredi.
 ![Piano Terra](https://github.com/Veronicach30/projects-2016/blob/master/506920/PianoTerraInterni1.jpg)
 
 #### Primo Piano
+
+
+Nel primo piano si trova la zona giorno con la sala a doppia altezza, la sala da pranzo, la cucina e la stanza dedicata alla cameriera.
+
+Come per il piano terra partendo dalla pianta è stato generato il file .svg.
+
+![Primo Piano](https://github.com/Veronicach30/projects-2016/blob/master/506920/PiantaPrimoPiano.jpg)
+
+Elaborazione del file .svg con l'aggiunta del pavimento e delle pareti curve ottenute con l'uso delle curve di Bezier ha portato al risultato sulla sinistra, mentre a destra sono state forate, anche in questo caso le mura per la realizzazione delle porte e delle finestre.
+
+![Primo Piano](https://github.com/Veronicach30/projects-2016/blob/master/506920/PrimoPiano1.jpg)
+
+In una successiva fase è avvenuto l'inserimento delle porte e delle grate alle finestre, oltre alla costruzione del balcone sulla facciata frontale.
+
+![Primo Piano](https://github.com/Veronicach30/projects-2016/blob/master/506920/PrimoPiano2.jpg)
+
+In questo piano e nei piani successivi sono stati inseriti diversi elementi d'arredo, tra i quali la libreria e il complesso che divide la sala dalla sala da pranzo.
+
+![Primo Piano Arredi](https://github.com/Veronicach30/projects-2016/blob/master/506920/Lib_Complesso.jpg)
+
+Nella sala sono stati inseriti la poltrona e il divano, progettati in maniera analoga tra loro.
+
+![Primo Piano Arredi](https://github.com/Veronicach30/projects-2016/blob/master/506920/Poltrona.jpg)
+
+Mentre la stanza della cameriera è stata arredata inserendo un letto ed un armadio, che in colorazioni differenti verranno usati anche nei piani superiori.
+
+![Primo Piano Arredi](https://github.com/Veronicach30/projects-2016/blob/master/506920/Letto_Armadio.jpg)
 #### Secondo Piano
 #### Terzo Piano
