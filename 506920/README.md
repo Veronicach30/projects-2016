@@ -152,3 +152,21 @@ Nelle ultime immagini invece vedremo al visione d'insieme dell'ambiente arredato
 
 
 #### Terzo Piano
+
+Il terzo piano è dedicato invece per metà alle stanze dei figli e degli eventuali ospiti, e nella seconda metà alla terrazza giardino tipica dell'Architetto.
+
+In maniera analoga ai precedenti è stato generato il file .svg e da questo il file .lines.
+
+![Terzo Piano](https://github.com/Veronicach30/projects-2016/blob/master/506920/PiantaTerzoPiano.jpg)
+
+Elaborazione del file .lines con l'aggiunta del pavimento ha portato al risultato sulla sinistra, mentre a destra sono state forate le mura per la realizzazione delle porte, delle finestre e le aperture del terrazzo.
+
+![Terzo Piano](https://github.com/Veronicach30/projects-2016/blob/master/506920/TerzoPiano1.jpg)
+
+Sono state poi inserite le porte, le grate alle finestre e i parapetti della terrazza, nella foto a sinistra, mentre a destra vediamo il terzo piano arredato, con i mobili e i letti nelle due stanze e delle poltrone nella terrazza.
+
+![Terzo Piano](https://github.com/Veronicach30/projects-2016/blob/master/506920/TerzoPiano2.jpg)
+
+Quest'ultima inmmagine mostra la terrazza-giardino.
+
+![Terzo Piano](https://github.com/Veronicach30/projects-2016/blob/master/506920/TerzoPianoArredo1.jpg)
