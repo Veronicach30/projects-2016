@@ -110,7 +110,7 @@ In una successiva fase è avvenuto l'inserimento delle porte e delle grate alle 
 
 In questo piano e nei piani successivi sono stati inseriti diversi elementi d'arredo, tra i quali la libreria e il complesso che divide la sala dalla sala da pranzo.
 
-![Primo Piano Arredi](https://github.com/Veronicach30/projects-2016/blob/master/506920/Lib_Complesso.jpg)
+![Primo Piano Arredi](https://github.com/Veronicach30/projects-2016/blob/master/506920/Libreria_Complesso.jpg)
 
 Nella sala sono stati inseriti la poltrona e il divano, progettati in maniera analoga tra loro.
 
